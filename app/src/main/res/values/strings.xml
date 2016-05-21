@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MediaPicker</string>
+    <string name="take_photo">Take photo</string>
+    <string name="permission_necessary">Permission necessary</string>
+    <string name="external_storage_permission">External storage permission is necessary</string>
+    <string name="select_image">Select image</string>
+    <string name="select_video">Select video</string>
+    <string name="cancel">Cancel</string>
+</resources>
